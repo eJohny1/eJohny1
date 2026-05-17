@@ -56,11 +56,7 @@ Tools & Workflow:
 
 ------------------------------------------
 
-GitHub Activity:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnEkosene&show_icons=true&theme=city_lights&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnEkosene&layout=compact&theme=city_lights&hide_border=true" alt="Top Languages"/>
-</p>
+
 
 ### 📫 Get In Touch
 <div align="left">
